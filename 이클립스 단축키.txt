@@ -1,0 +1,14 @@
+Ctrl + Space Bar = 자동완성
+Alt + Shift + R = 변수명 일괄 변경
+Ctrl + Alt + Up = 현재줄 위로 복사
+Ctrl + Alt + Down = 현재줄 아래로 복사
+Ctrl + Shift + / = 주석처리   (Ctrl + Shift + \ 주석 풀기)
+Ctrl + / = 라인별로 주석처리
+Ctrl + Shift + O = 자동 import
+Alt + Up = 현재줄 위로 이동
+Alt + Down = 현재줄 아래로 이동
+Ctrl + Shift + Enter = 현재 줄에 새줄 추가
+Shift + Enter = 다음 줄에 새줄 추가
+Ctrl + D = 줄 삭제
+Ctrl + Shift + G = 해당 메섣, 객체, 변수가 사용(호출)된 모든 곳을 찾는다.
+Ctrl + Shift + Space = 메서드의 괄호안에서 누르면 파라미터을 볼 수 있다.
